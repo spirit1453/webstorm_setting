@@ -26,8 +26,12 @@
           <option name="url" value="https://github.com/spirit1453/global_script.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spirit1453/react_native_collection.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\entry\code\git\working_on\global_script" />
+    <option name="cloneParentDir" value="$USER_HOME$/entry/git/working_on" />
   </component>
 </application>
