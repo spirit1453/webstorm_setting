@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/spirit1453/react_native_collection.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.coding.net/spirit1979/ys_web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/entry/git/working_on" />
