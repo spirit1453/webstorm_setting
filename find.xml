@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../config/index.js [node_collection]'" />
-    <option name="defaultScopeName" value="File '.../config/index.js [node_collection]'" />
+    <option name="customScope" value="File '.../template/default/vue.js [master]'" />
+    <option name="defaultScopeName" value="File '.../template/default/vue.js [master]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../config/index.js [node_collection]'" />
+    <option name="SEARCH_SCOPE" value="File '.../template/default/vue.js [master]'" />
   </component>
 </application>
