@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../template/default/vue.js [master]'" />
-    <option name="defaultScopeName" value="File '.../template/default/vue.js [master]'" />
+    <option name="customScope" value="File '.../src/Update.js [master]'" />
+    <option name="defaultScopeName" value="File '.../src/Update.js [master]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../template/default/vue.js [master]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/Update.js [master]'" />
   </component>
 </application>
