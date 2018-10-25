@@ -16,6 +16,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
