@@ -3,6 +3,7 @@
     <option name="generalSettings">
       <GeneralSettings>
         <option name="enableInternalFeatures" value="false" />
+        <option name="macAddress" value="F4-0F-24-34-6D-51" />
       </GeneralSettings>
     </option>
     <option name="sdkSettings">
@@ -11,7 +12,7 @@
           <list>
             <SdkInfo>
               <option name="sdkType" value="ODPS_CMD" />
-              <option name="version" value="0.26.0" />
+              <option name="version" value="0.29.1" />
               <option name="installedLocation" value="$APPLICATION_PLUGINS_DIR$/odps-studio-intellij/odpscmd_public" />
               <option name="isDefault" value="true" />
             </SdkInfo>
