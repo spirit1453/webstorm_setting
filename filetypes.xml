@@ -16,6 +16,7 @@
       <mapping pattern="introduction" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="postinstall" type="PLAIN_TEXT" />
       <mapping pattern="introduction.md" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping ext="swift" type="PLAIN_TEXT" />
