@@ -14,6 +14,7 @@
       <mapping pattern="2" type="JavaScript" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="introduction" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="postinstall" type="PLAIN_TEXT" />
