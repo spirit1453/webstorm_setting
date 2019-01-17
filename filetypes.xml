@@ -22,6 +22,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="postinstall" type="PLAIN_TEXT" />
       <mapping pattern="introduction.md" type="PLAIN_TEXT" />
+      <mapping pattern="医院表.md" type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
