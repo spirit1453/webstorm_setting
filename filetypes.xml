@@ -12,7 +12,6 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="2" type="JavaScript" />
-      <removed_mapping ext="md" type="Markdown" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="introduction" type="PLAIN_TEXT" />
       <mapping pattern="17医院设备.md" type="PLAIN_TEXT" />
@@ -35,7 +34,6 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="swift" type="PLAIN_TEXT" />
       <mapping ext="ml" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
