@@ -74,6 +74,10 @@
           <option name="url" value="https://git.dev.tencent.com/spirit1979/multi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spirit1453/resource.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/Samsung_T5/entry/code/working_on/ys" />
