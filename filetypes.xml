@@ -19,7 +19,6 @@
       <mapping pattern="equipment.md" type="PLAIN_TEXT" />
       <mapping pattern="概览.md" type="PLAIN_TEXT" />
       <mapping pattern="NUL" type="PLAIN_TEXT" />
-      <mapping pattern="string_view-3AIC2C9C0FWL1-temp-0d0bfca6" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="entry.md" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
@@ -27,15 +26,17 @@
       <mapping pattern="introduction" type="PLAIN_TEXT" />
       <mapping pattern="creatType.sql" type="PLAIN_TEXT" />
       <mapping pattern="introduction.md" type="PLAIN_TEXT" />
+      <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping pattern="医院表.md" type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
-      <mapping pattern="www" type="PLAIN_TEXT" />
+      <mapping pattern="string_view-3AIC2C9C0FWL1-temp-0d0bfca6" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="swift" type="PLAIN_TEXT" />
       <mapping ext="ml" type="PLAIN_TEXT" />
     </extensionMap>
