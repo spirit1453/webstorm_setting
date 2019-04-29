@@ -16,6 +16,7 @@
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="静态文件夹.md" type="PLAIN_TEXT" />
       <mapping pattern="NUL" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping pattern="introduction.md" type="PLAIN_TEXT" />
       <mapping pattern="服务端static文件夹.md" type="PLAIN_TEXT" />
@@ -25,6 +26,7 @@
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
       <mapping pattern="string_view-3AIC2C9C0FWL1-temp-0d0bfca6" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="医院表.md" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
