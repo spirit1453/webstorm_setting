@@ -36,6 +36,7 @@
       <mapping pattern="postinstall" type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
       <mapping pattern="17医院设备.md" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
