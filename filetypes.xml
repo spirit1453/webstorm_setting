@@ -26,12 +26,12 @@
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
       <mapping pattern="string_view-3AIC2C9C0FWL1-temp-0d0bfca6" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="医院表.md" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="equipment.md" type="PLAIN_TEXT" />
       <mapping pattern="introduction" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="postinstall" type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
@@ -46,6 +46,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="swift" type="PLAIN_TEXT" />
       <mapping ext="ml" type="PLAIN_TEXT" />
+      <mapping ext="zip1" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
